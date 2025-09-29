@@ -1,4 +1,4 @@
-# Stock-Valuation-with-Dividend-Discount-Model-DDM-using-Python-AT-T-Case-Study
+# Stock-Valuation-with-Dividend-Discount-Model-DDM-using-Python-AT&T-Case-Study
 This project implements the Dividend Discount Model (DDM) in Python to value AT&amp;T (T) stock, inspired by the Coursera Guided Project 'Stock Valuation with Dividend Discount Model'. Instead of Excel, it uses web scraping for dividend data, yfinance for stock info, and calculations for growth rate, CAPM cost of equity, and fair value.
 
 ## Overview
